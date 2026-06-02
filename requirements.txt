@@ -1,0 +1,12 @@
+torch
+tntorch
+huggingface_hub
+lm_eval[hf]
+datasets
+transformers
+tensorly
+numpy
+tqdm
+python-dotenv
+kernels>=0.11.0
+accelerate
